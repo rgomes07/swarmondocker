@@ -1,0 +1,13 @@
+Instalação do docker-compose em sistemas Linux
+
+Em Linux, você pode baixar os binários do Docker Compose dos repositório do docker no GitHub:
+
+curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+Aplique permissão de executável ao binário:
+
+chmod +x /usr/local/bin/docker-compose
+
+Teste a instalação:
+
+docker-compose --version
