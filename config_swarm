@@ -1,7 +1,9 @@
 
 SWARM:
 
-Ao executar o Docker Engine no modo swarm, você pode usar o Docker Stack Deploy para implantar uma pilha de aplicativos completa. O comando deploy aceita uma descrição de stack na forma de um Compose file. Desta forma, é possível usar os arquivos docker-compose.yml para criar stack de contêineres do docker, não havendo necessidade de instalar o Docker Compose.
+Ao executar o Docker Engine no modo swarm, você pode usar o Docker Stack Deploy para implantar uma pilha de aplicativos completa. 
+O comando deploy aceita uma descrição de stack na forma de um Compose file. Desta forma, é possível usar os arquivos docker-compose.yml 
+para criar stack de contêineres do docker, não havendo necessidade de instalar o Docker Compose.
 
 Iniciando o cluster:
 
