@@ -14,3 +14,5 @@ Siga as orientações do docker para criar seus managers e workers no cluster.
 Verificando os nós do cluster:
 
 docker node ls
+
+
