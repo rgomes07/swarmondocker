@@ -1,0 +1,19 @@
+Instalação do docker CE (Community Edition)
+
+A finalidade do script de instalação é a conveniência de instalar rapidamente as versões mais recentes do Docker-CE nas distribuições Linux suportadas
+
+Uso:
+
+curl -fsSL https://get.docker.com | sh
+
+systemctl start docker
+systemctl enable docker
+systemctl status docker
+
+Teste:
+
+docker --version
+docker container ls
+
+Pronto o docker esta executando como daemon.
+
