@@ -1,3 +1,5 @@
+![swar-q](https://user-images.githubusercontent.com/91737184/151613792-aa792c88-667f-4a62-a7ab-4b9640ebb6ae.png)
+
 Guia de instalação e configuração do docker swarm
 
 
